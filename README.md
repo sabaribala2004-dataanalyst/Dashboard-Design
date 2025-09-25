@@ -50,7 +50,7 @@ Adidas Sales Dataset (post-cleaning & transformation <a href="https://github.com
   - Category by Gender: Almost equal split across Men & Women for Apparel, Footwear, and Streetwear.
 
 
-## 📌 PDashboard 3 – Geospatial Business Insights
+## 📌 Dashboard 3 – Geospatial Business Insights
 
 ![Page 03](https://github.com/user-attachments/assets/0e16c95d-c79f-409f-bb16-2b5b72aba73a)
 
