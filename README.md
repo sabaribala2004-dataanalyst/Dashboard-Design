@@ -3,7 +3,7 @@
 ## 📌 Project Purpose
 The Adidas Sales Dashboard is designed to explore revenue growth, product category performance, retailer contribution, and geographic sales coverage.The goal is to provide actionable insights for business leaders to strengthen sales strategy, optimize product mix, and focus on profitable markets.
 
-## 📑 Project Documentation  <a href=""> Click to See the PPT Summary</a>
+## 📑 Project Documentation  <a href="https://github.com/sabaribala2004-dataanalyst/Dashboard-Design/blob/main/Adidas%20Sales%20Summary.pptx"> Click to See the PPT Summary</a>
 A detailed project summary presentation has been created, highlighting the objectives, process, dashboards, and business insights from the Adidas sales analysis.
 
 ## 📂 Data Source
@@ -63,6 +63,12 @@ Adidas Sales Dataset (post-cleaning & transformation <a href="https://github.com
 ## 📌Dashboard 4 – Overall Summary
 
 ![Page 04](https://github.com/user-attachments/assets/7f722156-40d4-46e7-a60e-6bee7e8a37df)
+
+  ## 🔎 Highlights:
+  - An Overall Summary dashboard compiles 12 critical insights into one page, providing a snapshot of sales performance, customer behavior, product mix, and geography for quick decision-making.
+
+## 🏁 Final Takeaway
+This analysis reveals that Adidas sales are driven by Street Footwear & Apparel, strong online presence, and concentrated urban markets. By leveraging these insights, Adidas can expand its digital strategy, retail collaborations, and regional promotions to boost global sales further.
 
   
 
